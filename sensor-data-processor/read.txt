@@ -1,0 +1,18 @@
+The Sensor Data Processing System is designed to read sensor data, validate its format, compute monthly statistics, detect outliers, and generate reports. 
+It also includes an error-handling module for logging errors.
+Features:
+Data Ingestion: Reads sensor data (sensor_data.csv) and threshold values (thresholds.csv).
+Validation: Ensures data format correctness and handles missing values.
+Processing: Computes monthly average, minimum, and maximum values.
+Outlier Detection: Identifies readings beyond defined thresholds.
+Reporting: Generates reports (monthly_stats.csv and outliers.csv).
+Error Handling: Logs errors related to missing files, incorrect data formats, and processing failures.
+
+
+Installation and Setup:
+Clone the Repository--
+git clone <repository_url>
+cd sensor_data_processing
+
+To run the application:
+python src/main.py

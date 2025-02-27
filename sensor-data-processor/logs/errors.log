@@ -1,0 +1,14 @@
+2025-02-27 17:19:59,780 - ERROR - ERR001: File not found. File 'sensor_data.csv' is missing.
+2025-02-27 17:19:59,780 - ERROR - ERR002: Invalid data format. Sensor values contain non-numeric data.
+2025-02-27 17:19:59,781 - ERROR - ERR003: Processing error. Failed to compute monthly statistics due to division by zero.
+2025-02-27 17:19:59,781 - ERROR - ERR004: Thresholds not defined. Thresholds not found for sensor type 'CO2'.
+2025-02-27 17:28:23,021 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 17:32:56,028 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 17:41:58,957 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 17:43:02,876 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 17:53:16,358 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 17:53:16,396 - ERROR - ERR002: Invalid data format. Missing values found in ../data/sensor_data.csv
+2025-02-27 17:53:16,400 - ERROR - ERR003: Processing error. string indices must be integers, not 'str'
+2025-02-27 18:24:03,156 - ERROR - ERR002: Invalid data format. Missing values found in sensor_data.csv
+2025-02-27 18:24:03,190 - ERROR - ERR002: Invalid data format. Missing values found in ../data/sensor_data.csv
+2025-02-27 18:24:03,212 - ERROR - ERR003: Processing error. string indices must be integers, not 'str'

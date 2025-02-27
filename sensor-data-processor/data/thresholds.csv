@@ -1,0 +1,9 @@
+sensor_type,min_threshold,max_threshold
+temperature,15,35
+humidity,40,80
+pressure,960,1040
+co2,350,700
+voc,150,450
+light,100,900
+sound,30,100
+motion,5,30
